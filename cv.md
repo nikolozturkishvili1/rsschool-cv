@@ -9,4 +9,4 @@ learning new things from everywhere etc.).
 freelance projects - wherever they had the opportunity to demonstrate skills they have.
 Also it would be awesome if you add links to source code)
 7. TSU
-8. English : School education
+8. English : School education 
